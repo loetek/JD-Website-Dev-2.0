@@ -272,8 +272,8 @@
                     stringsElement: '#typed-strings',
                     typeSpeed: 30,
                     backSpeed: 30,
-                    backDelay: 6000,
-                    startDelay: 3000,
+                    backDelay: 4000,
+                    startDelay: 1500,
                     loop: true
 
                 });
