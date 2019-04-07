@@ -40,7 +40,7 @@ $action = $_POST['action'];
         $sent = mail($sendTo, $subject, $message, $header);
 
         if ($sent) {
-            echo "<p class=\"success\">Message sent succesfully.</p>";
+            echo "<p class=\"success\">Message sent successfully.</p>";
         } else {
             echo "<p class=\"error\">There was problem while sending E-Mail.</p>";
 
