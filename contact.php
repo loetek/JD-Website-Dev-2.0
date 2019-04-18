@@ -1,6 +1,6 @@
 <?php
 
-$sendTo = jdwheeler0@gmail.com;//don't forget to change it
+$sendTo = 'jdwheeler0@gmail.com';//don't forget to change it
 
 $action = $_POST['action'];
 
